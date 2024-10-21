@@ -1,0 +1,165 @@
+
+<peliculas>
+    <pelicula id="1">
+        <titulo>La Máscara</titulo>
+        <director>Juanito</director>
+        <actor>Jim Carrey</actor>
+        <año_lanzamiento>1994</año_lanzamiento>
+        <genero>Comedia</genero>
+        <duracion>101</duracion>
+    </pelicula>
+    <pelicula id="2">
+        <titulo>Piratas del Caribe</titulo>
+        <director>Perez</director>
+        <actor>Johnny Depp</actor>
+        <año_lanzamiento>2003</año_lanzamiento>
+        <genero>Aventura</genero>
+        <duracion>143</duracion>
+    </pelicula>
+    <pelicula id="3">
+        <titulo>Batman</titulo>
+        <director>Juanito</director>
+        <actor>No me acuerdo</actor>
+        <año_lanzamiento>1989</año_lanzamiento>
+        <genero>Acción</genero>
+        <duracion>126</duracion>
+    </pelicula>
+    <pelicula id="4">
+        <titulo>El Señor de los Anillos: La Comunidad del Anillo</titulo>
+        <director>Peter Jackson</director>
+        <actor>Elijah Wood</actor>
+        <año_lanzamiento>2001</año_lanzamiento>
+        <genero>Fantasía</genero>
+        <duracion>178</duracion>
+    </pelicula>
+    <pelicula id="5">
+        <titulo>Matrix</titulo>
+        <director>Hermanas Wachowski</director>
+        <actor>Keanu Reeves</actor>
+        <año_lanzamiento>1999</año_lanzamiento>
+        <genero>Ciencia Ficción</genero>
+        <duracion>136</duracion>
+    </pelicula>
+    <pelicula id="6">
+        <titulo>Inception</titulo>
+        <director>Christopher Nolan</director>
+        <actor>Leonardo DiCaprio</actor>
+        <año_lanzamiento>2010</año_lanzamiento>
+        <genero>Ciencia Ficción</genero>
+        <duracion>148</duracion>
+    </pelicula>
+    <pelicula id="7">
+        <titulo>Gladiador</titulo>
+        <director>Ridley Scott</director>
+        <actor>Russell Crowe</actor>
+        <año_lanzamiento>2000</año_lanzamiento>
+        <genero>Acción</genero>
+        <duracion>155</duracion>
+    </pelicula>
+    <pelicula id="8">
+        <titulo>El Padrino</titulo>
+        <director>Francis Ford Coppola</director>
+        <actor>Marlon Brando</actor>
+        <año_lanzamiento>1972</año_lanzamiento>
+        <genero>Drama</genero>
+        <duracion>175</duracion>
+    </pelicula>
+    <!-- Nuevas películas añadidas -->
+    <pelicula id="9">
+        <titulo>Avengers: Endgame</titulo>
+        <director>Anthony y Joe Russo</director>
+        <actor>Robert Downey Jr.</actor>
+        <año_lanzamiento>2019</año_lanzamiento>
+        <genero>Acción</genero>
+        <duracion>181</duracion>
+    </pelicula>
+    <pelicula id="10">
+        <titulo>Toy Story</titulo>
+        <director>John Lasseter</director>
+        <actor>Tom Hanks</actor>
+        <año_lanzamiento>1995</año_lanzamiento>
+        <genero>Animación</genero>
+        <duracion>81</duracion>
+    </pelicula>
+    <pelicula id="11">
+        <titulo>Tiburón</titulo>
+        <director>Steven Spielberg</director>
+        <actor>Roy Scheider</actor>
+        <año_lanzamiento>1975</año_lanzamiento>
+        <genero>Thriller</genero>
+        <duracion>124</duracion>
+    </pelicula>
+    <pelicula id="12">
+        <titulo>El Caballero Oscuro</titulo>
+        <director>Christopher Nolan</director>
+        <actor>Christian Bale</actor>
+        <año_lanzamiento>2008</año_lanzamiento>
+        <genero>Acción</genero>
+        <duracion>152</duracion>
+    </pelicula>
+    <pelicula id="13">
+        <titulo>Parásitos</titulo>
+        <director>Bong Joon-ho</director>
+        <actor>Song Kang-ho</actor>
+        <año_lanzamiento>2019</año_lanzamiento>
+        <genero>Drama</genero>
+        <duracion>132</duracion>
+    </pelicula>
+    <pelicula id="14">
+        <titulo>Jurassic Park</titulo>
+        <director>Steven Spielberg</director>
+        <actor>Sam Neill</actor>
+        <año_lanzamiento>1993</año_lanzamiento>
+        <genero>Aventura</genero>
+        <duracion>127</duracion>
+    </pelicula>
+    <pelicula id="15">
+        <titulo>Forrest Gump</titulo>
+        <director>Robert Zemeckis</director>
+        <actor>Tom Hanks</actor>
+        <año_lanzamiento>1994</año_lanzamiento>
+        <genero>Drama</genero>
+        <duracion>142</duracion>
+    </pelicula>
+    <pelicula id="16">
+        <titulo>La La Land</titulo>
+        <director>Damien Chazelle</director>
+        <actor>Ryan Gosling</actor>
+        <año_lanzamiento>2016</año_lanzamiento>
+        <genero>Musical</genero>
+        <duracion>128</duracion>
+    </pelicula>
+    <pelicula id="17">
+        <titulo>El Rey León</titulo>
+        <director>Roger Allers y Rob Minkoff</director>
+        <actor>Matthew Broderick</actor>
+        <año_lanzamiento>1994</año_lanzamiento>
+        <genero>Animación</genero>
+        <duracion>88</duracion>
+    </pelicula>
+    <pelicula id="18">
+        <titulo>Pulp Fiction</titulo>
+        <director>Quentin Tarantino</director>
+        <actor>John Travolta</actor>
+        <año_lanzamiento>1994</año_lanzamiento>
+        <genero>Crimen</genero>
+        <duracion>154</duracion>
+    </pelicula>
+    <pelicula id="19">
+        <titulo>El Gran Hotel Budapest</titulo>
+        <director>Wes Anderson</director>
+        <actor>Ralph Fiennes</actor>
+        <año_lanzamiento>2014</año_lanzamiento>
+        <genero>Comedia</genero>
+        <duracion>99</duracion>
+    </pelicula>
+    <pelicula id="20">
+        <titulo>Mad Max: Furia en el camino</titulo>
+        <director>George Miller</director>
+        <actor>Tom Hardy</actor>
+        <año_lanzamiento>2015</año_lanzamiento>
+        <genero>Acción</genero>
+        <duracion>120</duracion>
+    </pelicula>
+</peliculas>
+

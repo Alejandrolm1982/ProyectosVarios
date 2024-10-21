@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!ELEMENT peliculas (pelicula*)>
+        <!ELEMENT pelicula (titulo, director, actor, año_lanzamiento, genero, duracion)>
+        <!ATTLIST pelicula id CDATA #REQUIRED>
+        <!ELEMENT titulo (#PCDATA)>
+        <!ELEMENT director (#PCDATA)>
+        <!ELEMENT actor (#PCDATA)>
+        <!ELEMENT año_lanzamiento (#PCDATA)>
+        <!ELEMENT genero (#PCDATA)>
+        <!ELEMENT duracion (#PCDATA)>
