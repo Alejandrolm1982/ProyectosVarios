@@ -3,3 +3,4 @@ Varios proyectos pequeños hechos en Java.
 - Un Chat en tiempo real entre dos clientes con Sockets
 - Un Algoritmo de coincidencias en una Matriz Bidimensional
 - un Selector de cervezas hecho en JavaFX
+- Un analizador de acciones(SP500)
